@@ -1,8 +1,15 @@
 {
   "users": [
     {
-      "username": "admin",
-      "password": "test",
+      "username": "LOL",
+      "password": "0e87ae3d-62db-4c4b-b731-03ad7c19bb44",
+      "hwid": "",
+      "banned": false,
+      "expiration": "2025-12-31T23:59:59Z"
+    }
+    {
+      "username": "DoesWager",
+      "password": "RYdZeDRuGWX4JfB",
       "hwid": "",
       "banned": false,
       "expiration": "2025-12-31T23:59:59Z"
@@ -10,8 +17,11 @@
   ],
   "keys": [
     {
-      "key": "key123",
+      "key": "9zYxWvUtSrQpOnMlKjIhGfEdCbA1aBcDeFgHiJkLmNoPqRsTuVwXyZ876543210lKnMgJfIeDhCgBaZzYxWvUtSrQpOnM",
       "used": false
     }
+    {
+    "key": "mNoPqRsTuVwXyZ0123456789aBcDeFgHiJkLzYxWvUtSrQpOnMlKjIhGfEdCbA987654321sTrVpOnMlKjIhGfEdCbAwX",
+      "used": false
   ]
 }
