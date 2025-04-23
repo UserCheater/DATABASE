@@ -18,10 +18,10 @@
   "keys": [
     {
       "key": "9zYxWvUtSrQpOnMlKjIhGfEdCbA1aBcDeFgHiJkLmNoPqRsTuVwXyZ876543210lKnMgJfIeDhCgBaZzYxWvUtSrQpOnM",
-      "used": false
+      "used": true
     }
     {
     "key": "mNoPqRsTuVwXyZ0123456789aBcDeFgHiJkLzYxWvUtSrQpOnMlKjIhGfEdCbA987654321sTrVpOnMlKjIhGfEdCbAwX",
-      "used": false
+      "used": true
   ]
 }
