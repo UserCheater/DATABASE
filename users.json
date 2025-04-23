@@ -6,7 +6,7 @@
       "hwid": "",
       "banned": false,
       "expiration": "2025-12-31T23:59:59Z"
-    }
+    },
     {
       "username": "DoesWager",
       "password": "RYdZeDRuGWX4JfB",
@@ -15,13 +15,14 @@
       "expiration": "2025-12-31T23:59:59Z"
     }
   ],
-  "keys": [
+  "keys": [ "keys"
     {
       "key": "9zYxWvUtSrQpOnMlKjIhGfEdCbA1aBcDeFgHiJkLmNoPqRsTuVwXyZ876543210lKnMgJfIeDhCgBaZzYxWvUtSrQpOnM",
       "used": true
-    }
+    },
     {
     "key": "mNoPqRsTuVwXyZ0123456789aBcDeFgHiJkLzYxWvUtSrQpOnMlKjIhGfEdCbA987654321sTrVpOnMlKjIhGfEdCbAwX",
       "used": true
+    } 
   ]
 }
